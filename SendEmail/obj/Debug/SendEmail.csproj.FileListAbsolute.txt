@@ -1,0 +1,11 @@
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\bin\Debug\Newtonsoft.Json.xml
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
