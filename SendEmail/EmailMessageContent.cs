@@ -14,6 +14,8 @@ namespace SendEmail
         public string BCC { get; set; }
         public string Subject { get; set; }
         public string Body { get; set; }
+
+        [JsonIgnore]
         public List<FileAttachment> Attachments { get; set; }
     }
 

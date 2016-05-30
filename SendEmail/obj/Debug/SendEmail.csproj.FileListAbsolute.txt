@@ -9,3 +9,6 @@ C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\D
 C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.Cache
 C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.exe
 C:\Users\i805597\Documents\Visual Studio 2015\Projects\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+C:\Projects\Training\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Projects\Training\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Projects\Training\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
