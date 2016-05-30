@@ -77,7 +77,7 @@ namespace SendEmail
             }
 
             var response = new HttpClient()
-                .PostAsync("http://localhost:48000/api/EmailServiceAPI/send", multipartContent)
+                .PostAsync("http://localhost:48000/api/EmailServiceAPI/test", multipartContent)
                 .Result;
 
             var responseContent = response.Content.ReadAsStringAsync().Result;
